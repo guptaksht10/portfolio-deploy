@@ -10,7 +10,7 @@ export const Bio = {
       With a deep passion for learning and innovation, I thrive in dynamic environments and am committed to delivering high-quality results.`,
     github: "https://github.com/guptaksht10",
     resume:
-      "https://drive.google.com/file/d/1kXniSjlX8lWAqylS1Be0TbgNsjreF4Ye/view?usp=sharing",
+      "https://drive.google.com/file/d/1Yxq_Ug1qkWWQt1e5sMTWw-gAaDc8tzov/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/akshat-gupta-73a637229",
     twitter: "",
     insta: "",
