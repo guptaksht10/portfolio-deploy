@@ -270,18 +270,7 @@ export const skills = [
     github: "https://github.com/guptaksht10/E-Byte",
     webapp: "",
   },
-  {
-    id: 2,
-    title: "AI Image Generator",
-    date: "2023",
-    description:
-      "A simple image generator using the OpenAI API. Users can generate images by entering a short description or keyword.",
-    image: "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-    tags: ["OpenAI API", "JavaScript", "HTML", "CSS"],
-    category: "machine learning",
-    github: "https://github.com/guptaksht10/ai-image-generator",
-    webapp: "",
-  },
+  
   {
     id: 3,
     title: "Well-Core",
@@ -369,7 +358,7 @@ export const skills = [
       id: 2,
       title: "Codeforces",
       image: "https://cdn-1.webcatalog.io/catalog/codeforces/codeforces-social-preview.png?v=1714773964567",
-      profile: "https://codeforces.com/profile/guptaksh10"
+      profile: "https://codeforces.com/profile/_unknown_entity05_"
     },
     {
       id: 3,
