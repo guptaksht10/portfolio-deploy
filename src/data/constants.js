@@ -10,10 +10,10 @@ export const Bio = {
       With a deep passion for learning and innovation, I thrive in dynamic environments and am committed to delivering high-quality results.`,
     github: "https://github.com/guptaksht10",
     resume:
-      "https://drive.google.com/file/d/1kXniSjlX8lWAqylS1Be0TbgNsjreF4Ye/view?usp=sharing",
+      "https://drive.google.com/file/d/12jCAejSoaJR8vZrjRsg_iX8hi0bLZv74/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/akshat-gupta-73a637229",
     twitter: "",
-    insta: "",
+    insta: "https://www.instagram.com/_guassian_slope05_?igsh=bWF0ZmMxcnVwajdm",
     facebook: "",
   };
   
@@ -58,7 +58,7 @@ export const skills = [
       {
         name: "Material UI",
         image:
-          "https://miro.medium.com/v2/resize:fit:1200/1*fEyeESs-HxVR7Zlr-fdlvw.png",
+          "https://pbs.twimg.com/profile_images/1798056830041788417/HIapkjDx_400x400.jpg",
       },
     ],
   },
@@ -225,7 +225,7 @@ export const skills = [
       img: "https://upload.wikimedia.org/wikipedia/en/b/b5/DTU%2C_Delhi_official_logo.png",
       school: "Delhi Technological University (formerly DCE), Bawana Rd, Delhi, 110042",
       date: "Aug 2023 - Present",
-      grade: "8.6 CGPA",
+      grade: "8.53 CGPA",
       desc: "I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at Delhi Technological University, Bhubaneswar.I have participated in various hackathons, showcasing my problem-solving and innovation skills. Additionally, I have also engaged with multiple NGOs and societies, contributing to community-driven initiatives and collaborative projects.",
       degree: "Bachelor's of Technology - BTech, Computer Science and Engineering",
     },
@@ -364,12 +364,6 @@ export const skills = [
       title: "Leetcode",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsK-CTzUjAPri3j7hnFCO_5dIcoBCfanwtQ&s",
       profile: "https://leetcode.com/u/atomzcody1005/"
-    },
-    {
-      id: 2,
-      title: "Codeforces",
-      image: "https://cdn-1.webcatalog.io/catalog/codeforces/codeforces-social-preview.png?v=1714773964567",
-      profile: "https://codeforces.com/profile/guptaksh10"
     },
     {
       id: 3,
