@@ -226,7 +226,7 @@ export const skills = [
       school: "Delhi Technological University (formerly DCE), Bawana Rd, Delhi, 110042",
       date: "Aug 2023 - Present",
       grade: "8.53 CGPA",
-      desc: "I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at Delhi Technological University, Bhubaneswar.I have participated in various hackathons, showcasing my problem-solving and innovation skills. Additionally, I have also engaged with multiple NGOs and societies, contributing to community-driven initiatives and collaborative projects.",
+      desc: "I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at Delhi Technological University, Delhi. I have participated in various hackathons, showcasing my problem-solving and innovation skills. Additionally, I have also engaged with multiple NGOs and societies, contributing to community-driven initiatives and collaborative projects.",
       degree: "Bachelor's of Technology - BTech, Computer Science and Engineering",
     },
     {
