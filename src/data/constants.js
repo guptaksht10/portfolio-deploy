@@ -365,6 +365,12 @@ export const skills = [
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsK-CTzUjAPri3j7hnFCO_5dIcoBCfanwtQ&s",
       profile: "https://leetcode.com/u/atomzcody1005/"
     },
+      {
+      id: 2,
+      title: "Codeforces",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgvX5nje1qA07TlZzm2Rbuod1FEq3IepwBIw&s",
+      profile: "https://codeforces.com/profile/guptaksht10"
+    },
     {
       id: 3,
       title: "Codechef",
