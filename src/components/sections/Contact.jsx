@@ -2,6 +2,7 @@ import React, { useRef, useState } from "react";
 import styled from "styled-components";
 import emailjs from "@emailjs/browser";
 import "bootstrap/dist/css/bootstrap.min.css";
+import env from "react-dotenv";
 
 const Container = styled.div`
   display: flex;
@@ -132,12 +133,12 @@ const Contact = () => {
       return;
     }
 
-    emailjs
-      .sendForm(
-        "service_8d469pq", // Your Service ID
-        "template_u5yx0vq", // Your Template ID
+    console.log(process.env.REACT_APP_EMAILJS_SERVICE_ID)
+   emailjs.sendForm(
+        process.env.REACT_APP_EMAILJS_SERVICE_ID,
+        process.env.REACT_APP_EMAILJS_TEMPLATE_ID,
         form.current,
-        "uRir3VgqcO8o5HhVE" // Your Public Key
+        process.env.REACT_APP_EMAILJS_PUBLIC_KEY
       )
       .then(
         (result) => {
