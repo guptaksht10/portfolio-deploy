@@ -326,18 +326,6 @@ export const skills = [
     webapp: "",
   },
   {
-    id: 5,
-    title: "Diabetes Predictor",
-    date: "2025",
-    description:
-      "This project focuses on predicting diabetes using the K-Nearest Neighbors (KNN) algorithm, combined with comprehensive Exploratory Data Analysis (EDA). Utilizing the PIMA Indian Diabetes Dataset, the goal is to understand underlying patterns in health-related features and classify whether a person is likely to have diabetes.",
-    image: "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-    tags: ["Python", "KNN", "EDA", "Pandas", "Matplotlib"],
-    category: "machine learning",
-    github: "https://github.com/guptaksht10/diabetes-predictor",
-    webapp: "",
-  },
-  {
     id: 6,
     title: "Driver Drowsiness Detection",
     date: "2025",
@@ -349,18 +337,7 @@ export const skills = [
     github: "https://github.com/guptaksht10/driver-drowsiness",
     webapp: "",
   },
-  {
-    id: 7,
-    title: "Healthcare Management System",
-    date: "2024",
-    description:
-      "A HealthCare Management System which facilitates checking hospital status, profile information, doctor information, booking slots, reviewing appointments, generating and printing prescriptions, and managing the entire application.",
-    image: "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-    tags: ["React Js", "Node Js", "Express Js", "MongoDB"],
-    category: "web app",
-    github: "https://github.com/guptaksht10/healthcare-management-system",
-    webapp: "",
-  },
+  
   {
     id: 8,
     title: "MediNest",

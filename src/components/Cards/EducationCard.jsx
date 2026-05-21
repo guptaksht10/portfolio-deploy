@@ -97,7 +97,7 @@ const EducationCard = ({ education }) => {
       contentArrowStyle={{
         borderRight: "7px solid  rgba(255, 255, 255, 0.3)",
       }}
-      date={education?.date}
+      date={window.innerWidth > 768 ? education?.date : ""}
     >
       <Top>
         <Image src={education?.img} />

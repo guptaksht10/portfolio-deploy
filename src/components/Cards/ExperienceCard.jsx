@@ -109,7 +109,7 @@ const ExperienceCard = ({ experience }) => {
       contentArrowStyle={{
         borderRight: "7px solid  rgba(255, 255, 255, 0.3)",
       }}
-      date={experience?.date}
+      date={window.innerWidth > 768 ? experience?.date : ""}
     >
       <Top>
         <Image src={experience?.img} />
